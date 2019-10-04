@@ -1,3 +1,4 @@
+
 <table>
     <tr>
         <!-- Do not translate this table -->
@@ -12,7 +13,7 @@
     </tr>
 </table>
 
-# Documentation Quick Reference
+# # Documentation Quick Reference
 
 Hello 👋!
 
