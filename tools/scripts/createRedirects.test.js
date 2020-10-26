@@ -2,7 +2,7 @@
 
 const { createRedirects } = require('./createRedirects');
 
-const testLocations = {
+ const testLocations = {
   api: 'https://api.example.com',
   home: 'https://home.example.com',
   forum: 'https://forum.example.com',
