@@ -1,6 +1,5 @@
 const {
   MONGODB,
-  
   MONGOHQ_URL,
 
   SESSION_SECRET,
@@ -30,7 +29,7 @@ const {
 
   STRIPE_PUBLIC,
   STRIPE_SECRET
-} = process.env;
+}  process.env;
 
 module.exports = {
   db: MONGODB || MONGOHQ_URL,
